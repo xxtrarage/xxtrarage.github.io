@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="XtraRage — Minecraft Forge / NeoForge developer">
+  <title>XtraRage — Minecraft Mod Developer</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="progress"><span></span></div>
+
+  <header class="nav">
+    <a href="#home" class="logo">XtraRage</a>
+    <nav>
+      <a href="#work">Work</a>
+      <a href="#services">Services</a>
+      <a href="#stack">Stack</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="hero">
+      <div class="hero-image"></div>
+      <div class="hero-shade"></div>
+
+      <div class="hero-content reveal">
+        <p class="eyebrow">Minecraft Java · Forge · NeoForge</p>
+        <h1>Systems first.<br><em>Gameplay that holds up.</em></h1>
+        <p class="lead">
+          I develop custom Minecraft mods and extend existing projects —
+          gameplay systems, progression, UI, networking, integrations and fixes.
+        </p>
+
+        <div class="actions">
+          <a class="btn primary" href="#work">View projects</a>
+          <a class="btn ghost" href="#contact">Start a project</a>
+        </div>
+      </div>
+
+      <a href="#work" class="scroll">
+        <span></span>
+        Scroll
+      </a>
+    </section>
+
+    <section id="work" class="work-intro">
+      <div class="section-index">01</div>
+      <div class="section-copy reveal">
+        <p class="eyebrow">Selected work</p>
+        <h2>Four projects.<br><em>Four different systems.</em></h2>
+        <p>
+          My portfolio is strongest where gameplay, persistence and multiplayer logic meet.
+          The projects below cover modern Forge work as well as large legacy 1.7.10 codebases.
+        </p>
+      </div>
+    </section>
+
+    <section class="project left" data-tone="green">
+      <div class="project-title reveal">
+        <span>01 / 04</span>
+        <h3>Shukaku<br>Reborn</h3>
+      </div>
+
+      <div class="project-body reveal">
+        <p class="eyebrow">Private Project · Minecraft 1.20.1</p>
+        <p class="project-lead">
+          A large gameplay-focused mod built around combat, movement, abilities
+          and responsive player feedback.
+        </p>
+
+        <div class="project-description">
+          <p>
+            The project combines several interconnected gameplay systems rather than
+            isolated features. Abilities, movement, input, visual feedback and player state
+            are designed to work together as one consistent combat experience.
+          </p>
+          <p>
+            A major focus is keeping client-side responsiveness separate from authoritative
+            server logic, so mechanics remain stable in multiplayer while still feeling fast
+            and polished to the player.
+          </p>
+        </div>
+
+        <div class="details">
+          <div>
+            <b>Strong sides</b>
+            <p>Complex ability logic, movement mechanics, custom menus, input handling and cinematic feedback.</p>
+          </div>
+          <div>
+            <b>Engineering</b>
+            <p>Client/server state synchronization, modular gameplay logic, persistent player data and multiplayer-safe behavior.</p>
+          </div>
+        </div>
+
+        <div class="tags">
+          <span>Combat Systems</span><span>Abilities</span><span>Networking</span><span>Player State</span>
+        </div>
+
+        <p class="private-note">Source code is private. Technical details can be discussed with clients when relevant.</p>
+      </div>
+
+      <div class="watermark">ABILITY</div>
+    </section>
+
+    <section class="project right" data-tone="blue">
+      <div class="project-body reveal">
+        <p class="eyebrow">Private Project · Minecraft 1.20.1</p>
+        <p class="project-lead">
+          A custom quest framework designed for long-term progression,
+          reusable quest logic and multiplayer synchronization.
+        </p>
+
+        <div class="project-description">
+          <p>
+            Instead of hardcoding individual quests, the system is built as a framework:
+            objectives, conditions, rewards, dialogue flow and player progress can be composed
+            into larger quest chains.
+          </p>
+          <p>
+            The project also includes custom interfaces and a visual quest workflow,
+            making complex quest structures easier to manage while keeping progression data
+            persistent and synchronized between server and client.
+          </p>
+        </div>
+
+        <div class="details">
+          <div>
+            <b>Strong sides</b>
+            <p>Reusable quest architecture, multiple objective types, conditions, rewards, dialogue and progression chains.</p>
+          </div>
+          <div>
+            <b>Engineering</b>
+            <p>Persistent player progression, server-authoritative state, network synchronization and custom editor/UI systems.</p>
+          </div>
+        </div>
+
+        <div class="tags">
+          <span>Quest Framework</span><span>Progression</span><span>Custom UI</span><span>Persistence</span>
+        </div>
+
+        <p class="private-note">Source code is private. Selected architecture and implementation details can be shown on request.</p>
+      </div>
+
+      <div class="project-title reveal">
+        <span>02 / 04</span>
+        <h3>Naruto<br>Quests</h3>
+      </div>
+
+      <div class="watermark">QUEST</div>
+    </section>
+
+    <section class="project left" data-tone="ember">
+      <div class="project-title reveal">
+        <span>03 / 04</span>
+        <h3>Game of<br>Thrones</h3>
+      </div>
+
+      <div class="project-body reveal">
+        <p class="eyebrow">Private Project · Minecraft 1.7.10</p>
+        <p class="project-lead">
+          Ongoing development inside a large legacy mod with interconnected
+          progression, faction, economy and server-side gameplay systems.
+        </p>
+
+        <div class="project-description">
+          <p>
+            This project is less about creating a clean mod from zero and more about safely
+            extending an existing large codebase without breaking old mechanics.
+            New systems have to coexist with years of legacy logic and existing player data.
+          </p>
+          <p>
+            One of the strongest parts is a technology progression system with multiple branches,
+            prerequisites, unlock rules and server-side validation, alongside faction structures,
+            world interaction and administrative systems.
+          </p>
+        </div>
+
+        <div class="details">
+          <div>
+            <b>Strong sides</b>
+            <p>Technology trees, progression rules, faction features, structure systems, GUI flows and large-system reworks.</p>
+          </div>
+          <div>
+            <b>Engineering</b>
+            <p>Legacy code maintenance, compatibility fixes, configuration migration, server/client separation and regression-safe changes.</p>
+          </div>
+        </div>
+
+        <div class="tags">
+          <span>Legacy Development</span><span>Tech Tree</span><span>Factions</span><span>Server Logic</span>
+        </div>
+
+        <p class="private-note">Source code is private because the project contains proprietary server and gameplay systems.</p>
+      </div>
+
+      <div class="watermark">LEGACY</div>
+    </section>
+
+    <section class="project right" data-tone="violet">
+      <div class="project-body reveal">
+        <p class="eyebrow">Private Project · Minecraft 1.7.10</p>
+        <p class="project-lead">
+          A complete battle-pass system with quests, progression tiers,
+          rewards, premium access and persistent multiplayer state.
+        </p>
+
+        <div class="project-description">
+          <p>
+            The project covers the full loop of a battle pass: configurable quests,
+            progress tracking, reward claims, tier progression and premium purchase logic.
+            Client interfaces are synchronized with server-side state instead of trusting the client.
+          </p>
+          <p>
+            It also connects external quest/NPC gameplay with the battle-pass progression layer,
+            allowing existing server content to feed into one unified progression system.
+          </p>
+        </div>
+
+        <div class="details">
+          <div>
+            <b>Strong sides</b>
+            <p>Quest tracking, reward tiers, claim flow, premium progression, configurable objectives and player-facing feedback.</p>
+          </div>
+          <div>
+            <b>Engineering</b>
+            <p>Persistent saved data, server validation, packet synchronization, extensible payment logic and compatibility with existing content.</p>
+          </div>
+        </div>
+
+        <div class="tags">
+          <span>Battle Pass</span><span>Rewards</span><span>Progression</span><span>Server Validation</span>
+        </div>
+
+        <p class="private-note">Source code is private. The public portfolio shows functionality without exposing implementation details.</p>
+      </div>
+
+      <div class="project-title reveal">
+        <span>04 / 04</span>
+        <h3>Battle<br>Pass</h3>
+      </div>
+
+      <div class="watermark">PROGRESS</div>
+    </section>
+
+    <section id="services" class="services">
+      <div class="section-index">02</div>
+
+      <div class="service-heading reveal">
+        <p class="eyebrow">Services</p>
+        <h2>From one fix<br><em>to a full system.</em></h2>
+      </div>
+
+      <div class="service-list reveal">
+        <div><span>01</span><h4>Gameplay systems</h4><p>Abilities, progression, quests, combat, professions and custom mechanics.</p></div>
+        <div><span>02</span><h4>UI & player experience</h4><p>HUDs, screens, menus, editors, keybinds and client feedback.</p></div>
+        <div><span>03</span><h4>Networking & persistence</h4><p>Player state, capabilities, NBT, saved data and multiplayer synchronization.</p></div>
+        <div><span>04</span><h4>Legacy & integrations</h4><p>Existing codebases, crashes, mod integrations, Mixins, server validation and refactors.</p></div>
+      </div>
+    </section>
+
+    <section id="stack" class="stack">
+      <div class="section-index">03</div>
+
+      <div class="stack-heading reveal">
+        <p class="eyebrow">Core stack</p>
+        <h2>Tools I work with.</h2>
+      </div>
+
+      <div class="stack-cloud reveal">
+        <span class="xl">Java</span>
+        <span class="lg">Forge 1.20.1</span>
+        <span>NeoForge</span>
+        <span class="lg">Forge 1.7.10</span>
+        <span>Gradle</span>
+        <span>ForgeGradle</span>
+        <span class="lg">Networking</span>
+        <span>Capabilities</span>
+        <span>Saved Data</span>
+        <span class="xl">GUI / HUD</span>
+        <span>Mixins</span>
+        <span>GeckoLib</span>
+        <span>CustomNPC+</span>
+        <span>Git / GitHub</span>
+      </div>
+    </section>
+
+    <section id="contact" class="contact">
+      <div class="contact-layout">
+        <div class="contact-inner reveal">
+          <p class="eyebrow">Available for commissions</p>
+          <h2>Have a mechanic<br><em>you want built?</em></h2>
+          <p>
+            Send the Minecraft version, loader and a short description of the system,
+            feature or problem. I can review the scope before development and suggest
+            the cleanest way to build it.
+          </p>
+          <div class="actions">
+            <a class="btn primary" href="https://github.com/xxtrarage">GitHub</a>
+            <a class="btn ghost" href="mailto:yourmail@example.com">Email</a>
+          </div>
+        </div>
+
+        <div class="contact-art reveal" aria-hidden="true">
+          <img src="contact-art.jpg" alt="">
+        </div>
+      </div>
+
+      <footer>XtraRage · Minecraft Mod Development</footer>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
