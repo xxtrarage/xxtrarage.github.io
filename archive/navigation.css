@@ -1,0 +1,23 @@
+.site-header{position:relative;z-index:10}
+.department-nav-group{display:flex;align-items:stretch;gap:3px;flex-shrink:0}
+.department-nav-group>[data-gender]{height:100%}
+.main-nav .department-toggle{display:grid;place-items:center;width:28px;flex-shrink:0;min-height:40px}
+.department-toggle svg{width:14px;height:14px;transition:transform 180ms var(--motion-ease)}
+.department-toggle[aria-expanded="true"] svg{transform:rotate(180deg)}
+.department-toggle:hover{background:var(--wash)}
+.department-popover{position:absolute;left:0;right:0;top:100%;background:white;border-top:1px solid var(--line);border-bottom:1px solid #ccc;box-shadow:0 10px 18px #0000000a;animation:department-enter 180ms var(--motion-ease);max-height:calc(100dvh - 140px);overflow-y:auto;overscroll-behavior:contain}
+.department-panel-inner{padding-top:23px;padding-bottom:22px}
+.department-heading{display:flex;justify-content:space-between;align-items:center;margin-bottom:22px}
+.department-heading h2{font-size:20px;font-weight:600}
+.department-heading>button{display:grid;place-items:center;width:32px;height:32px;font-size:17px;color:var(--muted)}
+.department-columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:45px;max-width:1040px}
+.department-columns h3{font-size:13px;color:var(--muted);margin-bottom:12px}
+.department-columns button{display:block;text-align:left;font-size:15px;padding:9px 10px;margin-left:-10px;min-height:40px;line-height:1.5;width:100%}
+.department-columns button:hover,.department-columns button.selected{background:var(--wash);text-decoration:none}
+.department-columns button.selected{font-weight:700;border-left:2px solid var(--ink);padding-left:8px}
+.department-all{display:flex;gap:14px;align-items:center;font-size:14px;margin-top:22px;padding-top:17px;border-top:1px solid var(--line);width:100%;text-align:left}
+.department-all>span:first-child{font-size:12px;color:var(--muted)}
+.department-all>span:last-child{margin-left:auto}
+.department-all.selected{font-weight:700}
+@keyframes department-enter{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:760px){.main-nav{gap:20px}.main-nav .department-toggle{width:32px}.department-popover{max-height:calc(100dvh - 185px)}.department-panel-inner{padding-top:16px;padding-bottom:20px}.department-heading{margin-bottom:12px}.department-heading h2{font-size:18px}.department-columns{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 22px}.department-columns>section:first-child{grid-row:span 2}.department-columns h3{font-size:12px;margin-bottom:7px}.department-columns button{font-size:14px;padding-top:10px;padding-bottom:10px;min-height:42px}.department-all{font-size:13px;margin-top:18px}.department-toggle:focus-visible{outline-offset:-3px}}

@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "brand": "Maison Margiela",
+    "name": "AW2012 Longsleeve T-Shirt",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/101611712-maison-margiela-aw2012-longsleeve-t-shirt",
+    "sourceId": "101611712",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 209,
+    "images": [
+      "assets/listings/101611712-0.jpg",
+      "assets/listings/101611712-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 2,
+    "brand": "Acne Studios",
+    "name": "Худи Acne Studios",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/99339458-acne-studios-acne-studios-hoodie",
+    "sourceId": "99339458",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 180,
+    "images": [
+      "assets/listings/99339458-0.jpg",
+      "assets/listings/99339458-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 3,
+    "brand": "Rick Owens",
+    "name": "DRKSHDW Logo Long Sleeve Shirt",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/98306222-rick-owens-rick-owens-drkshdw-logo-long-sleeve-shirt",
+    "sourceId": "98306222",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 385,
+    "images": [
+      "assets/listings/98306222-0.jpg",
+      "assets/listings/98306222-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 4,
+    "brand": "Ralph Lauren",
+    "name": "Рубашка с длинным рукавом",
+    "sourcePlatform": "Vinted",
+    "sourceUrl": "https://www.vinted.com/items/9276523082-ralph-lauren-shirt",
+    "sourceId": "9276523082",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 16,
+    "images": [
+      "assets/listings/9276523082-0.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Yohji Yamamoto",
+    "name": "Y’s — Long Sleeve Shirt",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/92043358-yohji-yamamoto-y-s-yohji-yamamoto-long-sleeve-shirt",
+    "sourceId": "92043358",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 450,
+    "images": [
+      "assets/listings/92043358-0.jpg",
+      "assets/listings/92043358-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 6,
+    "brand": "Levi’s",
+    "name": "Vintage 501 Jeans",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/87000530-levi-s-vintage-501-levi-jeans",
+    "sourceId": "87000530",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 83,
+    "images": [
+      "assets/listings/87000530-0.jpg",
+      "assets/listings/87000530-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 7,
+    "brand": "Nike",
+    "name": "Air Max 95 — Black / University Blue",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/101547840-nike-nike-air-max-95-black-university-blue",
+    "sourceId": "101547840",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 90,
+    "images": [
+      "assets/listings/101547840-0.jpg",
+      "assets/listings/101547840-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 8,
+    "brand": "Acne Studios",
+    "name": "2021M — джинсы Vintage Black",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/101898755-acne-studios-acne-studios-2021m-jeans",
+    "sourceId": "101898755",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 450,
+    "images": [
+      "assets/listings/101898755-0.jpg",
+      "assets/listings/101898755-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 9,
+    "brand": "Maison Margiela",
+    "name": "Replica GAT — Leather Low Top Sneakers",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/107894347-maison-margiela-replica-gat-classic-leather-low-top-sneakers",
+    "sourceId": "107894347",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 395,
+    "images": [
+      "assets/listings/107894347-0.jpg",
+      "assets/listings/107894347-1.jpg"
+    ],
+    "sourceSold": true
+  },
+  {
+    "id": 10,
+    "brand": "Comme des Garçons",
+    "name": "PLAY — футболка с сердцем",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/92900405-comme-des-garcons-play-t-shirt",
+    "sourceId": "92900405",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 140,
+    "images": [
+      "assets/listings/92900405-0.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 11,
+    "brand": "Stone Island",
+    "name": "Archived Sweater 1999",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/92439345-stone-island-stone-island-archived-sweater-1999",
+    "sourceId": "92439345",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 160,
+    "images": [
+      "assets/listings/92439345-0.jpg",
+      "assets/listings/92439345-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 12,
+    "brand": "Maison Margiela",
+    "name": "AW05 Headphones Trompe L’oeil",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/102961090-maison-margiela-aw05-headphones-trompe-l-oeil-long-sleeve-t-shirt",
+    "sourceId": "102961090",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 370,
+    "images": [
+      "assets/listings/102961090-0.jpg",
+      "assets/listings/102961090-1.jpg"
+    ],
+    "sourceSold": true
+  },
+  {
+    "id": 13,
+    "brand": "Supreme",
+    "name": "Box Logo Hooded Sweatshirt",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/105448136-supreme-supreme-box-logo-hooded-sweatshirt",
+    "sourceId": "105448136",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 170,
+    "images": [
+      "assets/listings/105448136-0.jpg",
+      "assets/listings/105448136-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 14,
+    "brand": "Stüssy",
+    "name": "Stüssy Inc. — футболка с принтом",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/105084109-stussy-stussy-t-shirt",
+    "sourceId": "105084109",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 25,
+    "images": [
+      "assets/listings/105084109-0.jpg",
+      "assets/listings/105084109-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 15,
+    "brand": "Balenciaga",
+    "name": "Black Back Logo Hoodie",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/104087789-balenciaga-balenciaga-black-back-logo-hoodie",
+    "sourceId": "104087789",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 550,
+    "images": [
+      "assets/listings/104087789-0.jpg",
+      "assets/listings/104087789-1.jpg"
+    ],
+    "sourceSold": false
+  },
+  {
+    "id": 16,
+    "brand": "Our Legacy",
+    "name": "Borrowed Shirt — Black",
+    "sourcePlatform": "Grailed",
+    "sourceUrl": "https://www.grailed.com/listings/97828295-our-legacy-our-legacy-borrowed-shirt-black-size-m",
+    "sourceId": "97828295",
+    "sourceChecked": "2026-10-18",
+    "currency": "USD",
+    "price": 379,
+    "images": [
+      "assets/listings/97828295-0.jpg",
+      "assets/listings/97828295-1.jpg"
+    ],
+    "sourceSold": false
+  }
+]

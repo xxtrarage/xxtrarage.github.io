@@ -1,0 +1,148 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(assets/fonts/inter-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(assets/fonts/inter-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(assets/fonts/inter-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(assets/fonts/ebgaramond-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(assets/fonts/ebgaramond-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(assets/fonts/ebgaramond-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(assets/fonts/bodonimoda-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'Archivo';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(assets/fonts/archivo-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(assets/fonts/archivo-1.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+@font-face {
+  font-family: 'Archivo';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(assets/fonts/archivo-1.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(assets/fonts/oswald-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(assets/fonts/oswald-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(assets/fonts/anton-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(assets/fonts/caveat-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'Permanent Marker';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(assets/fonts/permanentmarker-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'UnifrakturCook';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(assets/fonts/unifrakturcook-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(assets/fonts/robotomono-0.woff2) format('woff2');
+  unicode-range: U+20, U+26-29, U+2c-39, U+41-5a, U+61-7a, U+c0-c1, U+c3-c4, U+c7-c9, U+cb-cd, U+cf, U+d1-d3, U+d5-d6, U+d9-da, U+dc-dd, U+e0-e1, U+e3-e4, U+e7-e9, U+eb-ed, U+ef, U+f1-f3, U+f5-f6, U+f9-fa, U+fc-fd, U+ff, U+106-107, U+122-123, U+128-129, U+136-137, U+139-13c, U+143-146, U+154-157, U+15a-15b, U+15e-15f, U+162-163, U+168-169, U+178-17a, U+1d7-1d8, U+1db-1dc, U+1f4-1f5, U+1f8-1f9, U+228-229, U+300-301, U+303, U+308, U+327, U+1e08-1e09, U+1e10-1e11, U+1e26-1e29, U+1e2e-1e31, U+1e3e-1e3f, U+1e4c-1e4f, U+1e54-1e55, U+1e78-1e79, U+1e7c-1e7d, U+1e80-1e85, U+1e8c-1e8d, U+1e97, U+1ebc-1ebd, U+1ef2-1ef3, U+1ef8-1ef9, U+2019;
+}

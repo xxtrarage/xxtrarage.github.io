@@ -1,0 +1,870 @@
+[
+  {
+    "name": "Acne Studios",
+    "slug": "acne-studios",
+    "logo": "assets/brands/acne-studios.svg",
+    "source": "existing-official-wordmark"
+  },
+  {
+    "name": "Adidas",
+    "slug": "adidas",
+    "logo": "assets/brands/adidas.png",
+    "source": "https://www.grailed.com/designers/adidas",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/488178afee0c4d53a1fc7a6950878f4b"
+  },
+  {
+    "name": "Ader Error",
+    "slug": "ader-error",
+    "logo": "assets/brands/ader-error.svg",
+    "source": "https://www.adererror.com/en",
+    "sourceLogo": "https://d31flwjaqugbgy.cloudfront.net/common/ader_logo.svg"
+  },
+  {
+    "name": "Aimé Leon Dore",
+    "slug": "aime-leon-dore",
+    "logo": "assets/brands/aime-leon-dore.png",
+    "source": "https://www.grailed.com/designers/aime-leon-dore",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/8d170c741a0f4abfbff517a09a49b480"
+  },
+  {
+    "name": "Alexander McQueen",
+    "slug": "alexander-mcqueen",
+    "logo": "assets/brands/alexander-mcqueen.png",
+    "source": "https://www.grailed.com/designers/alexander-mcqueen",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/59bb8bd864c6468ab167d2bf849c91df"
+  },
+  {
+    "name": "1017 ALYX 9SM",
+    "slug": "alyx",
+    "logo": "assets/brands/alyx.png",
+    "source": "https://www.grailed.com/designers/alyx",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/e6aba7f422af44d3ac4f7608f098967d"
+  },
+  {
+    "name": "AMI Paris",
+    "slug": "ami",
+    "logo": "assets/brands/ami.svg",
+    "source": "https://www.amiparis.com/"
+  },
+  {
+    "name": "Amiri",
+    "slug": "amiri",
+    "logo": "assets/brands/amiri.png",
+    "source": "https://www.grailed.com/designers/amiri",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/f6a0c61a29f64981a812e00fbe1466de"
+  },
+  {
+    "name": "Ann Demeulemeester",
+    "slug": "ann-demeulemeester",
+    "logo": "assets/brands/ann-demeulemeester.png",
+    "source": "https://www.grailed.com/designers/ann-demeulemeester",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/fe52140546aa4e9d9b8ee6e7fc287968"
+  },
+  {
+    "name": "Arc’teryx",
+    "slug": "arc-teryx",
+    "logo": "assets/brands/arc-teryx.svg",
+    "source": "https://worldvectorlogo.com/logo/arc-teryx",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/arc-teryx.svg"
+  },
+  {
+    "name": "Armani",
+    "slug": "armani",
+    "logo": "assets/brands/armani.svg",
+    "source": "https://worldvectorlogo.com/logo/giorgio-armani",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/giorgio-armani.svg"
+  },
+  {
+    "name": "Asics",
+    "slug": "asics",
+    "logo": "assets/brands/asics.png",
+    "source": "https://www.grailed.com/designers/asics",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/5b7148c909af48e8bee4ee937627485a"
+  },
+  {
+    "name": "Balenciaga",
+    "slug": "balenciaga",
+    "logo": "assets/brands/balenciaga.png",
+    "source": "https://www.grailed.com/designers/balenciaga",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/2fcd5c1c4537473184789184b4231509"
+  },
+  {
+    "name": "Balmain",
+    "slug": "balmain",
+    "logo": "assets/brands/balmain.png",
+    "source": "https://www.grailed.com/designers/balmain",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/0b24605b67d64fab8a06966c45a7bca2"
+  },
+  {
+    "name": "Bape",
+    "slug": "bape",
+    "logo": "assets/brands/bape.png",
+    "source": "https://www.grailed.com/designers/bape",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/e6897abc7d194b53b7025fdf2660a938"
+  },
+  {
+    "name": "Barbour",
+    "slug": "barbour",
+    "logo": "assets/brands/barbour.svg",
+    "source": "https://worldvectorlogo.com/logo/barbour",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/barbour.svg"
+  },
+  {
+    "name": "Bottega Veneta",
+    "slug": "bottega-veneta",
+    "logo": "assets/brands/bottega-veneta.png",
+    "source": "https://www.grailed.com/designers/bottega-veneta",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/57dceb7001c24e0a8180ed34faa83e37"
+  },
+  {
+    "name": "Burberry",
+    "slug": "burberry",
+    "logo": "assets/brands/burberry.png",
+    "source": "https://www.grailed.com/designers/burberry",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/686fa6c7e54249b09f9b07f8abfa16be"
+  },
+  {
+    "name": "C.P. Company",
+    "slug": "cp-company",
+    "logo": "assets/brands/cp-company.png",
+    "source": "https://www.grailed.com/designers/c-p-company",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/8f7cfb25b7534a33ab2e271847352137"
+  },
+  {
+    "name": "Calvin Klein",
+    "slug": "calvin-klein",
+    "logo": "assets/brands/calvin-klein.png",
+    "source": "https://worldvectorlogo.com/search?q=Calvin%20Klein",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/calvin-klein-1.svg"
+  },
+  {
+    "name": "Carhartt",
+    "slug": "carhartt",
+    "logo": "assets/brands/carhartt.png",
+    "source": "https://www.grailed.com/designers/carhartt",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/03b3e84c588e457ea24ad0c6698c49fd"
+  },
+  {
+    "name": "Casablanca",
+    "slug": "casablanca",
+    "logo": "assets/brands/casablanca.png",
+    "source": "https://www.grailed.com/designers/casablanca",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/15ef723483f3410eaea2b7e582df8963"
+  },
+  {
+    "name": "Celine",
+    "slug": "celine",
+    "logo": "assets/brands/celine.png",
+    "source": "https://www.grailed.com/designers/celine",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/a4650ffe06ed479faddbf91e0fb385aa"
+  },
+  {
+    "name": "Champion",
+    "slug": "champion",
+    "logo": "assets/brands/champion.png",
+    "source": "https://www.grailed.com/designers/champion",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/a272d1484da94956ba5566579d22fedf"
+  },
+  {
+    "name": "Chanel",
+    "slug": "chanel",
+    "logo": "assets/brands/chanel.png",
+    "source": "https://www.grailed.com/designers/chanel",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/19197e900df14c2484b7094f17dc7894"
+  },
+  {
+    "name": "Chrome Hearts",
+    "slug": "chrome-hearts",
+    "logo": "assets/brands/chrome-hearts.png",
+    "source": "https://www.grailed.com/designers/chrome-hearts",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/7a4acde7b1d04ab09e2f095137a97bd1"
+  },
+  {
+    "name": "Comme des Garçons",
+    "slug": "comme-des-garcons",
+    "logo": "assets/brands/comme-des-garcons.png",
+    "source": "https://www.grailed.com/designers/comme-des-garcons",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/c36a7d222fe74b359d22777c7cdc04d9"
+  },
+  {
+    "name": "Converse",
+    "slug": "converse",
+    "logo": "assets/brands/converse.png",
+    "source": "https://www.grailed.com/designers/converse",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/3ad5e5beec9e4ee891508a568ac21266"
+  },
+  {
+    "name": "Courrèges",
+    "slug": "courreges",
+    "logo": "assets/brands/courreges.svg",
+    "source": "https://www.courreges.com/"
+  },
+  {
+    "name": "Craig Green",
+    "slug": "craig-green",
+    "logo": "assets/brands/craig-green.png",
+    "source": "https://www.craig-green.com/cdn/shop/files/CG_LOGO_2.png?v=1756375449&width=600",
+    "sourceLogo": "https://www.craig-green.com/cdn/shop/files/CG_LOGO_2.png?v=1756375449&width=600"
+  },
+  {
+    "name": "Diesel",
+    "slug": "diesel",
+    "logo": "assets/brands/diesel.png",
+    "source": "https://www.grailed.com/designers/diesel",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/981bfed473e742498b7769b531f38d7a"
+  },
+  {
+    "name": "Dior",
+    "slug": "dior",
+    "logo": "assets/brands/dior.png",
+    "source": "https://www.grailed.com/designers/dior",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/b7e26f41104e476fb1f5c3aefd52a5d4"
+  },
+  {
+    "name": "Dolce & Gabbana",
+    "slug": "dolce-gabbana",
+    "logo": "assets/brands/dolce-gabbana.png",
+    "source": "https://www.grailed.com/designers/dolce-gabbana",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/d6f1a6b163804561bd19d279c8097fb7"
+  },
+  {
+    "name": "Dr. Martens",
+    "slug": "dr-martens",
+    "logo": "assets/brands/dr-martens.png",
+    "source": "https://www.grailed.com/designers/dr-martens",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/aff0d4283a3d41a9b861cb2ca8006715"
+  },
+  {
+    "name": "Dries Van Noten",
+    "slug": "dries-van-noten",
+    "logo": "assets/brands/dries-van-noten.png",
+    "source": "https://www.grailed.com/designers/dries-van-noten",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/f1d150f2db894fee965ea700579839ea"
+  },
+  {
+    "name": "Dsquared2",
+    "slug": "dsquared2",
+    "logo": "assets/brands/dsquared2.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/DSQUARED2.png",
+    "sourceLogo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/DSQUARED2.png"
+  },
+  {
+    "name": "Enfants Riches Déprimés",
+    "slug": "enfants-riches-deprimes",
+    "logo": "assets/brands/enfants-riches-deprimes.svg",
+    "source": "https://www.enfantsrichesdeprimes.com/"
+  },
+  {
+    "name": "Engineered Garments",
+    "slug": "engineered-garments",
+    "logo": "assets/brands/engineered-garments.png",
+    "source": "https://www.grailed.com/designers/engineered-garments",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/73b90cf93c06422682419d550cb49d78"
+  },
+  {
+    "name": "Evisu",
+    "slug": "evisu",
+    "logo": "assets/brands/evisu.png",
+    "source": "https://www.grailed.com/designers/evisu",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/d365a7e2d414465bbc56893c03bbf23f"
+  },
+  {
+    "name": "Fear of God",
+    "slug": "fear-of-god",
+    "logo": "assets/brands/fear-of-god.png",
+    "source": "https://www.grailed.com/designers/fear-of-god",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/48652d16db4845989ceea337be1e53a4"
+  },
+  {
+    "name": "Fendi",
+    "slug": "fendi",
+    "logo": "assets/brands/fendi.png",
+    "source": "https://www.grailed.com/designers/fendi",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/545ac7ef77834fcbb08308fc3c843a40"
+  },
+  {
+    "name": "Ferragamo",
+    "slug": "salvatore-ferragamo",
+    "logo": "assets/brands/salvatore-ferragamo.png",
+    "source": "https://www.grailed.com/designers/salvatore-ferragamo",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/0ec2b5e9ebc6484eba9510df59d66dc5"
+  },
+  {
+    "name": "Filson",
+    "slug": "filson",
+    "logo": "assets/brands/filson.png",
+    "source": "https://www.grailed.com/designers/filson",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/7f8ef211da544b138e15503ba2bb0808"
+  },
+  {
+    "name": "Ganni",
+    "slug": "ganni",
+    "logo": "assets/brands/ganni.png",
+    "source": "https://www.grailed.com/designers/ganni",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/8e6c1ed5fc14436c84922ef56ec0fae5"
+  },
+  {
+    "name": "Givenchy",
+    "slug": "givenchy",
+    "logo": "assets/brands/givenchy.png",
+    "source": "https://www.grailed.com/designers/givenchy",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/bb088822cb45470793d80b0ca7026b81"
+  },
+  {
+    "name": "Golden Goose",
+    "slug": "golden-goose",
+    "logo": "assets/brands/golden-goose.png",
+    "source": "https://www.grailed.com/designers/golden-goose",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/8fb851a77beb49368438fc0277024668"
+  },
+  {
+    "name": "Gucci",
+    "slug": "gucci",
+    "logo": "assets/brands/gucci.png",
+    "source": "https://www.grailed.com/designers/gucci",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/fc5cca0e729245b3bc87a4e1f47a0119"
+  },
+  {
+    "name": "Guidi",
+    "slug": "guidi",
+    "logo": "assets/brands/guidi.png",
+    "source": "https://www.grailed.com/designers/guidi",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/2a356cee9eca4ebb858f2f29bc301c8a"
+  },
+  {
+    "name": "Helmut Lang",
+    "slug": "helmut-lang",
+    "logo": "assets/brands/helmut-lang.png",
+    "source": "https://www.grailed.com/designers/helmut-lang",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/dceb78e450f74050a761a28f53d6b189"
+  },
+  {
+    "name": "Hermès",
+    "slug": "hermes",
+    "logo": "assets/brands/hermes.png",
+    "source": "https://www.grailed.com/designers/hermes",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/3867748edf41426b981c9605e2f025dd"
+  },
+  {
+    "name": "Homme Plissé Issey Miyake",
+    "slug": "homme-plisse-issey-miyake",
+    "logo": "assets/brands/homme-plisse-issey-miyake.svg",
+    "source": "https://us.isseymiyake.com/cdn/shop/t/367/assets/exp-hommeplisse_logo.svg?v=101256527909652438181790042741",
+    "sourceLogo": "https://us.isseymiyake.com/cdn/shop/t/367/assets/exp-hommeplisse_logo.svg?v=101256527909652438181790042741"
+  },
+  {
+    "name": "Hysteric Glamour",
+    "slug": "hysteric-glamour",
+    "logo": "assets/brands/hysteric-glamour.png",
+    "source": "https://www.grailed.com/designers/hysteric-glamour",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/a3369bd4e721463eaad048792af21a9c"
+  },
+  {
+    "name": "Issey Miyake",
+    "slug": "issey-miyake",
+    "logo": "assets/brands/issey-miyake.png",
+    "source": "https://www.grailed.com/designers/issey-miyake",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/ba89a4de20e64ed48fa2486f054af8e9"
+  },
+  {
+    "name": "Jacquemus",
+    "slug": "jacquemus",
+    "logo": "assets/brands/jacquemus.png",
+    "source": "https://www.grailed.com/designers/jacquemus",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/07a3c491b29049fa8b94bf1d810b1f26"
+  },
+  {
+    "name": "Jean Paul Gaultier",
+    "slug": "jean-paul-gaultier",
+    "logo": "assets/brands/jean-paul-gaultier.png",
+    "source": "https://www.grailed.com/designers/jean-paul-gaultier",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/10dc71549f90469a948aec0ed373138d"
+  },
+  {
+    "name": "Jil Sander",
+    "slug": "jil-sander",
+    "logo": "assets/brands/jil-sander.png",
+    "source": "https://www.grailed.com/designers/jil-sander",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/21bac7750ce54c489798d26cdeba9210"
+  },
+  {
+    "name": "John Elliott",
+    "slug": "john-elliott",
+    "logo": "assets/brands/john-elliott.png",
+    "source": "https://www.grailed.com/designers/john-elliott",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/b18c3db252eb46d081e690548508e116"
+  },
+  {
+    "name": "Junya Watanabe",
+    "slug": "junya-watanabe",
+    "logo": "assets/brands/junya-watanabe.png",
+    "source": "https://www.grailed.com/designers/junya-watanabe",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/b2784e1e7eae4c2e8b0e38085caa4f19"
+  },
+  {
+    "name": "Kapital",
+    "slug": "kapital",
+    "logo": "assets/brands/kapital.png",
+    "source": "https://www.grailed.com/designers/kapital",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/2ef8bb8f02bc44e2ad0554ebf0d43777"
+  },
+  {
+    "name": "Kenzo",
+    "slug": "kenzo",
+    "logo": "assets/brands/kenzo.png",
+    "source": "https://www.grailed.com/designers/kenzo",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/574421d4c15a4905a2456347791b1c42"
+  },
+  {
+    "name": "Kiko Kostadinov",
+    "slug": "kiko-kostadinov",
+    "logo": "assets/brands/kiko-kostadinov.png",
+    "source": "https://www.grailed.com/designers/kiko-kostadinov",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/b5bd60f57d424eff871e3c3cfe708822"
+  },
+  {
+    "name": "Kith",
+    "slug": "kith",
+    "logo": "assets/brands/kith.png",
+    "source": "https://www.grailed.com/designers/kith",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/edcd0db730a34fdd9b1e7831c23583a4"
+  },
+  {
+    "name": "Lacoste",
+    "slug": "lacoste",
+    "logo": "assets/brands/lacoste.svg",
+    "source": "https://worldvectorlogo.com/logo/lacoste",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/lacoste.svg"
+  },
+  {
+    "name": "Lanvin",
+    "slug": "lanvin",
+    "logo": "assets/brands/lanvin.png",
+    "source": "https://www.grailed.com/designers/lanvin",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/18032704d4f144cbac84c5ef6ed6edeb"
+  },
+  {
+    "name": "Lemaire",
+    "slug": "lemaire",
+    "logo": "assets/brands/lemaire.png",
+    "source": "https://www.grailed.com/designers/lemaire",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/b557a785b27f4144b8f64ce2ea9e0d33"
+  },
+  {
+    "name": "Levi’s",
+    "slug": "levi-s",
+    "logo": "assets/brands/levis.svg",
+    "source": "existing-official-wordmark"
+  },
+  {
+    "name": "Loewe",
+    "slug": "loewe",
+    "logo": "assets/brands/loewe.png",
+    "source": "https://www.grailed.com/designers/loewe",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/3630fd884a8f494ca528ef3e026bbdc1"
+  },
+  {
+    "name": "Louis Vuitton",
+    "slug": "louis-vuitton",
+    "logo": "assets/brands/louis-vuitton.png",
+    "source": "https://www.grailed.com/designers/louis-vuitton",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/921ec6d0a7104c3eb35d714a6010d0e9"
+  },
+  {
+    "name": "Lululemon",
+    "slug": "lululemon",
+    "logo": "assets/brands/lululemon.svg",
+    "source": "https://worldvectorlogo.com/search?q=Lululemon",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/lululemon-1.svg"
+  },
+  {
+    "name": "Maison Kitsuné",
+    "slug": "maison-kitsune",
+    "logo": "assets/brands/maison-kitsune.png",
+    "source": "https://www.grailed.com/designers/maison-kitsune",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/534b746775074dff9dc22a8d0917e5c8"
+  },
+  {
+    "name": "Maison Margiela",
+    "slug": "maison-margiela",
+    "logo": "assets/brands/maison-margiela.svg",
+    "source": "existing-official-wordmark"
+  },
+  {
+    "name": "Maison Mihara Yasuhiro",
+    "slug": "maison-mihara-yasuhiro",
+    "logo": "assets/brands/maison-mihara-yasuhiro.png",
+    "source": "https://miharayasuhiro.jp/user_data/packages/mihara/images/logo_maison.png",
+    "sourceLogo": "https://miharayasuhiro.jp/user_data/packages/mihara/images/logo_maison.png"
+  },
+  {
+    "name": "Marni",
+    "slug": "marni",
+    "logo": "assets/brands/marni.png",
+    "source": "https://www.grailed.com/designers/marni",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/18b7d1e42d214a35a4298af1abd04c3b"
+  },
+  {
+    "name": "Max Mara",
+    "slug": "max-mara",
+    "logo": "assets/brands/max-mara.png",
+    "source": "https://www.grailed.com/designers/max-mara",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/d3cfced856c54e6c8592adc042f61dbd"
+  },
+  {
+    "name": "Miu Miu",
+    "slug": "miu-miu",
+    "logo": "assets/brands/miu-miu.png",
+    "source": "https://www.grailed.com/designers/miu-miu",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/d29effc4bd764afbac07fef44842094c"
+  },
+  {
+    "name": "Moncler",
+    "slug": "moncler",
+    "logo": "assets/brands/moncler.png",
+    "source": "https://www.grailed.com/designers/moncler",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/a27716069864449aae5797fcfe8aeab4"
+  },
+  {
+    "name": "Moschino",
+    "slug": "moschino",
+    "logo": "assets/brands/moschino.png",
+    "source": "https://cdn.shopify.com/s/files/1/0704/4412/2355/files/msc_logo_254_69.png?v=1744800731",
+    "sourceLogo": "https://cdn.shopify.com/s/files/1/0704/4412/2355/files/msc_logo_254_69.png?v=1744800731"
+  },
+  {
+    "name": "Nanamica",
+    "slug": "nanamica",
+    "logo": "assets/brands/nanamica.svg",
+    "source": "https://www.nanamica.com/"
+  },
+  {
+    "name": "Needles",
+    "slug": "needles",
+    "logo": "assets/brands/needles.svg",
+    "source": "https://needles.jp/",
+    "sourceLogo": "https://needles.jp/"
+  },
+  {
+    "name": "Neighborhood",
+    "slug": "neighborhood",
+    "logo": "assets/brands/neighborhood.svg",
+    "source": "https://www.neighborhood.jp/cdn/shop/t/1/assets/neighborhood-logo.svg?v=142976061398349384871558407303",
+    "sourceLogo": "https://www.neighborhood.jp/cdn/shop/t/1/assets/neighborhood-logo.svg?v=142976061398349384871558407303"
+  },
+  {
+    "name": "New Balance",
+    "slug": "new-balance",
+    "logo": "assets/brands/new-balance.png",
+    "source": "https://www.grailed.com/designers/new-balance",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/56e770cc8521453295f0567db74724e7"
+  },
+  {
+    "name": "Nike",
+    "slug": "nike",
+    "logo": "assets/brands/nike.svg",
+    "source": "existing-official-wordmark"
+  },
+  {
+    "name": "Noah",
+    "slug": "noah",
+    "logo": "assets/brands/noah.svg",
+    "source": "https://noahny.com/"
+  },
+  {
+    "name": "Number (N)ine",
+    "slug": "number-n-ine",
+    "logo": "assets/brands/number-n-ine.png",
+    "source": "https://www.grailed.com/designers/number-n-ine",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/0d873b298ecc45b7b5635fd5b53d0172"
+  },
+  {
+    "name": "Oakley",
+    "slug": "oakley",
+    "logo": "assets/brands/oakley.png",
+    "source": "https://www.grailed.com/designers/oakley",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/f483bf523d39487ebbed0408cd72e86f"
+  },
+  {
+    "name": "Off-White",
+    "slug": "off-white",
+    "logo": "assets/brands/off-white.png",
+    "source": "https://www.grailed.com/designers/off-white",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/99dfdab591ef49daa3e4bd817917a9bd"
+  },
+  {
+    "name": "Our Legacy",
+    "slug": "our-legacy",
+    "logo": "assets/brands/our-legacy.png",
+    "source": "https://www.grailed.com/designers/our-legacy",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/2bdc8bf678974391afba4541f884e1f9"
+  },
+  {
+    "name": "Palace",
+    "slug": "palace",
+    "logo": "assets/brands/palace.png",
+    "source": "https://www.grailed.com/designers/palace",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/e843a8e0b70d45119eaad230580eaf0e"
+  },
+  {
+    "name": "Palm Angels",
+    "slug": "palm-angels",
+    "logo": "assets/brands/palm-angels.png",
+    "source": "https://www.grailed.com/designers/palm-angels",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/be700d6070964e6395d1664d8de95667"
+  },
+  {
+    "name": "Patagonia",
+    "slug": "patagonia",
+    "logo": "assets/brands/patagonia.png",
+    "source": "https://www.grailed.com/designers/patagonia",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/02287a51c50c419d87b444599f43ac3f"
+  },
+  {
+    "name": "Pleats Please",
+    "slug": "pleats-please",
+    "logo": "assets/brands/pleats-please.svg",
+    "source": "https://worldvectorlogo.com/logo/pleats-please",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/pleats-please.svg"
+  },
+  {
+    "name": "Prada",
+    "slug": "prada",
+    "logo": "assets/brands/prada.png",
+    "source": "https://www.grailed.com/designers/prada",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/bcb99181d13a45728db5f87c5d2ef338"
+  },
+  {
+    "name": "Raf Simons",
+    "slug": "raf-simons",
+    "logo": "assets/brands/raf-simons.png",
+    "source": "https://www.grailed.com/designers/raf-simons",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/4c9f852be1d746e29c1684c6eb091ab0"
+  },
+  {
+    "name": "Ralph Lauren",
+    "slug": "ralph-lauren",
+    "logo": "assets/brands/ralph-lauren.svg",
+    "source": "existing-official-wordmark"
+  },
+  {
+    "name": "Reebok",
+    "slug": "reebok",
+    "logo": "assets/brands/reebok.png",
+    "source": "https://www.grailed.com/designers/reebok",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/aeb33fc555d041a395ab16ba20ac43ea"
+  },
+  {
+    "name": "Rick Owens",
+    "slug": "rick-owens",
+    "logo": "assets/brands/rick-owens.png",
+    "source": "https://www.grailed.com/designers/rick-owens",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/be90043b1059462eb0c4b284dd415a37"
+  },
+  {
+    "name": "Rick Owens DRKSHDW",
+    "slug": "rick-owens-drkshdw",
+    "logo": "assets/brands/rick-owens-drkshdw.png",
+    "source": "https://www.grailed.com/designers/rick-owens-drkshdw",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/c65c0daf81c5434095de087312470975"
+  },
+  {
+    "name": "Sacai",
+    "slug": "sacai",
+    "logo": "assets/brands/sacai.svg",
+    "source": "https://www.sacai.jp/cdn/shop/files/sacai_2.svg?v=1729223728&width=550",
+    "sourceLogo": "https://www.sacai.jp/cdn/shop/files/sacai_2.svg?v=1729223728&width=550"
+  },
+  {
+    "name": "Saint Laurent Paris",
+    "slug": "saint-laurent-paris",
+    "logo": "assets/brands/saint-laurent-paris.png",
+    "source": "https://www.grailed.com/designers/saint-laurent-paris",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/2c16b95f77ad4f67a4dab214bd40c209"
+  },
+  {
+    "name": "Salomon",
+    "slug": "salomon",
+    "logo": "assets/brands/salomon.png",
+    "source": "https://www.grailed.com/designers/salomon",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/93a70365a70741c68a4e0d2b0e801b95"
+  },
+  {
+    "name": "Satisfy",
+    "slug": "satisfy",
+    "logo": "assets/brands/satisfy.svg",
+    "source": "https://satisfyrunning.com/cdn/shop/files/satisfy-logo.svg?v=1731574254&width=1100",
+    "sourceLogo": "https://satisfyrunning.com/cdn/shop/files/satisfy-logo.svg?v=1731574254&width=1100"
+  },
+  {
+    "name": "Schott",
+    "slug": "schott",
+    "logo": "assets/brands/schott.svg",
+    "source": "https://worldvectorlogo.com/logo/schott",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/schott.svg"
+  },
+  {
+    "name": "Snow Peak",
+    "slug": "snow-peak",
+    "logo": "assets/brands/snow-peak.svg",
+    "source": "https://www.snowpeak.com/"
+  },
+  {
+    "name": "Stone Island",
+    "slug": "stone-island",
+    "logo": "assets/brands/stone-island.png",
+    "source": "https://www.grailed.com/designers/stone-island",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/ac9a9fa6c5204f618711092667edaeef"
+  },
+  {
+    "name": "Stüssy",
+    "slug": "stussy",
+    "logo": "assets/brands/stussy.png",
+    "source": "https://www.grailed.com/designers/stussy",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/958427ef6ef642a3b7532d4425c50d71"
+  },
+  {
+    "name": "Sunnei",
+    "slug": "sunnei",
+    "logo": "assets/brands/sunnei.png",
+    "source": "https://sunnei.it/cdn/shop/files/logo_80x_2x_1.png?v=1645186571",
+    "sourceLogo": "https://sunnei.it/cdn/shop/files/logo_80x_2x_1.png?v=1645186571"
+  },
+  {
+    "name": "Supreme",
+    "slug": "supreme",
+    "logo": "assets/brands/supreme.png",
+    "source": "https://www.grailed.com/designers/supreme",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/b4737573d99844f58b8972fccbe3121c"
+  },
+  {
+    "name": "The North Face",
+    "slug": "the-north-face",
+    "logo": "assets/brands/the-north-face.png",
+    "source": "https://www.grailed.com/designers/the-north-face",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/5cc7cd2008f54c2f9e73eac2f5495baf"
+  },
+  {
+    "name": "Thom Browne",
+    "slug": "thom-browne",
+    "logo": "assets/brands/thom-browne.png",
+    "source": "https://www.grailed.com/designers/thom-browne",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/b42d47f8e44640caa7aea66daf877468"
+  },
+  {
+    "name": "Timberland",
+    "slug": "timberland",
+    "logo": "assets/brands/timberland.png",
+    "source": "https://worldvectorlogo.com/logo/timberland",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/timberland.svg"
+  },
+  {
+    "name": "Tom Ford",
+    "slug": "tom-ford",
+    "logo": "assets/brands/tom-ford.png",
+    "source": "https://www.grailed.com/designers/tom-ford",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/246ef5edb4d649eb9a9a5f3899741eef"
+  },
+  {
+    "name": "Undercover",
+    "slug": "undercover",
+    "logo": "assets/brands/undercover.png",
+    "source": "https://www.grailed.com/designers/undercover",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/a1e40611eef4443aae108a84acb4ae4c"
+  },
+  {
+    "name": "Uniqlo",
+    "slug": "uniqlo",
+    "logo": "assets/brands/uniqlo.png",
+    "source": "https://www.grailed.com/designers/uniqlo",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/589b9286462240eb95665c2572ee1cbf"
+  },
+  {
+    "name": "Valentino",
+    "slug": "valentino",
+    "logo": "assets/brands/valentino.png",
+    "source": "https://www.grailed.com/designers/valentino",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/1a210d2882ca43f3b1562972ea020d51"
+  },
+  {
+    "name": "Vans",
+    "slug": "vans",
+    "logo": "assets/brands/vans.svg",
+    "source": "https://worldvectorlogo.com/logo/vans",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/vans.svg"
+  },
+  {
+    "name": "Versace",
+    "slug": "versace",
+    "logo": "assets/brands/versace.png",
+    "source": "https://www.grailed.com/designers/versace",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/89e8a8d156aa4ca89743c7bf69b538da"
+  },
+  {
+    "name": "Vetements",
+    "slug": "vetements",
+    "logo": "assets/brands/vetements.png",
+    "source": "https://www.grailed.com/designers/vetements",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/23c55aa464af443bbc984daf9733fb2f"
+  },
+  {
+    "name": "Visvim",
+    "slug": "visvim",
+    "logo": "assets/brands/visvim.png",
+    "source": "https://www.grailed.com/designers/visvim",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/db70f29caced4d6b91999adafb56df03"
+  },
+  {
+    "name": "Vivienne Westwood",
+    "slug": "vivienne-westwood",
+    "logo": "assets/brands/vivienne-westwood.png",
+    "source": "https://www.grailed.com/designers/vivienne-westwood",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/57b47b8d37174d469bc7b18aa9adae8a"
+  },
+  {
+    "name": "Wales Bonner",
+    "slug": "wales-bonner",
+    "logo": "assets/brands/wales-bonner.png",
+    "source": "https://www.grailed.com/designers/wales-bonner",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/a562291b8bc64eb297f319de74001d32"
+  },
+  {
+    "name": "Wacko Maria",
+    "slug": "wacko-maria",
+    "logo": "assets/brands/wacko-maria.svg",
+    "source": "https://wackomaria-paradisetokyo.jp/images/user/svg/logo.svg",
+    "sourceLogo": "https://wackomaria-paradisetokyo.jp/images/user/svg/logo.svg"
+  },
+  {
+    "name": "WTAPS",
+    "slug": "wtaps",
+    "logo": "assets/brands/wtaps.svg",
+    "source": "https://www.wtaps.com/"
+  },
+  {
+    "name": "Y-3",
+    "slug": "y-3",
+    "logo": "assets/brands/y-3.png",
+    "source": "https://www.grailed.com/designers/y-3",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/a346784ae2f9461c8a2b7df723d03962"
+  },
+  {
+    "name": "Yohji Yamamoto",
+    "slug": "yohji-yamamoto",
+    "logo": "assets/brands/yohji-yamamoto.png",
+    "source": "https://www.grailed.com/designers/yohji-yamamoto",
+    "sourceLogo": "https://media-assets.grailed.com/prd/detail-page/dffd6496da654125ba2873d6c7c366a8"
+  },
+  {
+    "name": "Zegna",
+    "slug": "zegna",
+    "logo": "assets/brands/zegna.svg",
+    "source": "https://worldvectorlogo.com/logo/ermenegildo-zegna",
+    "sourceLogo": "https://cdn.worldvectorlogo.com/logos/ermenegildo-zegna.svg"
+  },
+  {
+    "name": "Vintage",
+    "slug": "vintage",
+    "error": "no logo"
+  }
+]
